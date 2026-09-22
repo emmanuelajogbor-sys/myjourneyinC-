@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\Numericformatting\Numericformatting\bin\Debug\Numericformatting.exe.config
+C:\Users\Emman\source\repos\my journey in C#\Numericformatting\Numericformatting\bin\Debug\Numericformatting.exe
+C:\Users\Emman\source\repos\my journey in C#\Numericformatting\Numericformatting\bin\Debug\Numericformatting.pdb
+C:\Users\Emman\source\repos\my journey in C#\Numericformatting\Numericformatting\obj\Debug\Numericformatting.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\Numericformatting\Numericformatting\obj\Debug\Numericformatting.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\Numericformatting\Numericformatting\obj\Debug\Numericformatting.exe
+C:\Users\Emman\source\repos\my journey in C#\Numericformatting\Numericformatting\obj\Debug\Numericformatting.pdb

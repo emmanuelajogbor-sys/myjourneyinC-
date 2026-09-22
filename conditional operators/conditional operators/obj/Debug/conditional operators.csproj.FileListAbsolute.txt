@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\conditional operators\conditional operators\obj\Debug\conditional operators.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\conditional operators\conditional operators\obj\Debug\conditional operators.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\conditional operators\conditional operators\bin\Debug\conditional operators.exe.config
+C:\Users\Emman\source\repos\my journey in C#\conditional operators\conditional operators\bin\Debug\conditional operators.exe
+C:\Users\Emman\source\repos\my journey in C#\conditional operators\conditional operators\bin\Debug\conditional operators.pdb
+C:\Users\Emman\source\repos\my journey in C#\conditional operators\conditional operators\obj\Debug\conditional operators.exe
+C:\Users\Emman\source\repos\my journey in C#\conditional operators\conditional operators\obj\Debug\conditional operators.pdb

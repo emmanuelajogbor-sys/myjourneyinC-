@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\ifstatement\ifstatement\bin\Debug\ifstatement.exe.config
+C:\Users\Emman\source\repos\my journey in C#\ifstatement\ifstatement\bin\Debug\ifstatement.exe
+C:\Users\Emman\source\repos\my journey in C#\ifstatement\ifstatement\bin\Debug\ifstatement.pdb
+C:\Users\Emman\source\repos\my journey in C#\ifstatement\ifstatement\obj\Debug\ifstatement.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\ifstatement\ifstatement\obj\Debug\ifstatement.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\ifstatement\ifstatement\obj\Debug\ifstatement.exe
+C:\Users\Emman\source\repos\my journey in C#\ifstatement\ifstatement\obj\Debug\ifstatement.pdb

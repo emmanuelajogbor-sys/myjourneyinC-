@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\Consoleinput&output\Consoleinput&output\obj\Debug\Consoleinput&output.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\Consoleinput&output\Consoleinput&output\obj\Debug\Consoleinput&output.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\Consoleinput&output\Consoleinput&output\bin\Debug\Consoleinput&output.exe.config
+C:\Users\Emman\source\repos\my journey in C#\Consoleinput&output\Consoleinput&output\bin\Debug\Consoleinput&output.exe
+C:\Users\Emman\source\repos\my journey in C#\Consoleinput&output\Consoleinput&output\bin\Debug\Consoleinput&output.pdb
+C:\Users\Emman\source\repos\my journey in C#\Consoleinput&output\Consoleinput&output\obj\Debug\Consoleinput&output.exe
+C:\Users\Emman\source\repos\my journey in C#\Consoleinput&output\Consoleinput&output\obj\Debug\Consoleinput&output.pdb

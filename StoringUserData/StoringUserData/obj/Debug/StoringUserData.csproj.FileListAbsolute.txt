@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\StoringUserData\StoringUserData\bin\Debug\StoringUserData.exe.config
+C:\Users\Emman\source\repos\my journey in C#\StoringUserData\StoringUserData\bin\Debug\StoringUserData.exe
+C:\Users\Emman\source\repos\my journey in C#\StoringUserData\StoringUserData\bin\Debug\StoringUserData.pdb
+C:\Users\Emman\source\repos\my journey in C#\StoringUserData\StoringUserData\obj\Debug\StoringUserData.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\StoringUserData\StoringUserData\obj\Debug\StoringUserData.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\StoringUserData\StoringUserData\obj\Debug\StoringUserData.exe
+C:\Users\Emman\source\repos\my journey in C#\StoringUserData\StoringUserData\obj\Debug\StoringUserData.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\odd&Evenchecker\odd&Evenchecker\bin\Debug\odd&Evenchecker.exe.config
+C:\Users\Emman\source\repos\my journey in C#\odd&Evenchecker\odd&Evenchecker\bin\Debug\odd&Evenchecker.exe
+C:\Users\Emman\source\repos\my journey in C#\odd&Evenchecker\odd&Evenchecker\bin\Debug\odd&Evenchecker.pdb
+C:\Users\Emman\source\repos\my journey in C#\odd&Evenchecker\odd&Evenchecker\obj\Debug\odd&Evenchecker.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\odd&Evenchecker\odd&Evenchecker\obj\Debug\odd&Evenchecker.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\odd&Evenchecker\odd&Evenchecker\obj\Debug\odd&Evenchecker.exe
+C:\Users\Emman\source\repos\my journey in C#\odd&Evenchecker\odd&Evenchecker\obj\Debug\odd&Evenchecker.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\whileloop\whileloop\bin\Debug\whileloop.exe.config
+C:\Users\Emman\source\repos\my journey in C#\whileloop\whileloop\bin\Debug\whileloop.exe
+C:\Users\Emman\source\repos\my journey in C#\whileloop\whileloop\bin\Debug\whileloop.pdb
+C:\Users\Emman\source\repos\my journey in C#\whileloop\whileloop\obj\Debug\whileloop.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\whileloop\whileloop\obj\Debug\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\whileloop\whileloop\obj\Debug\whileloop.exe
+C:\Users\Emman\source\repos\my journey in C#\whileloop\whileloop\obj\Debug\whileloop.pdb

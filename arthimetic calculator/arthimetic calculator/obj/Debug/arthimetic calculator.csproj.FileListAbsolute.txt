@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\arthimetic calculator\arthimetic calculator\obj\Debug\arthimetic calculator.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\arthimetic calculator\arthimetic calculator\obj\Debug\arthimetic calculator.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\arthimetic calculator\arthimetic calculator\bin\Debug\arthimetic calculator.exe.config
+C:\Users\Emman\source\repos\my journey in C#\arthimetic calculator\arthimetic calculator\bin\Debug\arthimetic calculator.exe
+C:\Users\Emman\source\repos\my journey in C#\arthimetic calculator\arthimetic calculator\bin\Debug\arthimetic calculator.pdb
+C:\Users\Emman\source\repos\my journey in C#\arthimetic calculator\arthimetic calculator\obj\Debug\arthimetic calculator.exe
+C:\Users\Emman\source\repos\my journey in C#\arthimetic calculator\arthimetic calculator\obj\Debug\arthimetic calculator.pdb

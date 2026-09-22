@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\constakeyword(\constakeyword\bin\Debug\constakeyword.exe.config
+C:\Users\Emman\source\repos\my journey in C#\constakeyword(\constakeyword\bin\Debug\constakeyword.exe
+C:\Users\Emman\source\repos\my journey in C#\constakeyword(\constakeyword\bin\Debug\constakeyword.pdb
+C:\Users\Emman\source\repos\my journey in C#\constakeyword(\constakeyword\obj\Debug\constakeyword.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\constakeyword(\constakeyword\obj\Debug\constakeyword.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\constakeyword(\constakeyword\obj\Debug\constakeyword.exe
+C:\Users\Emman\source\repos\my journey in C#\constakeyword(\constakeyword\obj\Debug\constakeyword.pdb

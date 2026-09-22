@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\tryParsefunction\tryParsefunction\bin\Debug\tryParsefunction.exe.config
+C:\Users\Emman\source\repos\my journey in C#\tryParsefunction\tryParsefunction\bin\Debug\tryParsefunction.exe
+C:\Users\Emman\source\repos\my journey in C#\tryParsefunction\tryParsefunction\bin\Debug\tryParsefunction.pdb
+C:\Users\Emman\source\repos\my journey in C#\tryParsefunction\tryParsefunction\obj\Debug\tryParsefunction.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\tryParsefunction\tryParsefunction\obj\Debug\tryParsefunction.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\tryParsefunction\tryParsefunction\obj\Debug\tryParsefunction.exe
+C:\Users\Emman\source\repos\my journey in C#\tryParsefunction\tryParsefunction\obj\Debug\tryParsefunction.pdb

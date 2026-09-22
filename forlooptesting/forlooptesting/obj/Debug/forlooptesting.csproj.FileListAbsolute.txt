@@ -1,0 +1,7 @@
+C:\Users\Emman\source\repos\my journey in C#\forlooptesting\forlooptesting\obj\Debug\forlooptesting.csproj.AssemblyReference.cache
+C:\Users\Emman\source\repos\my journey in C#\forlooptesting\forlooptesting\obj\Debug\forlooptesting.csproj.CoreCompileInputs.cache
+C:\Users\Emman\source\repos\my journey in C#\forlooptesting\forlooptesting\bin\Debug\forlooptesting.exe.config
+C:\Users\Emman\source\repos\my journey in C#\forlooptesting\forlooptesting\bin\Debug\forlooptesting.exe
+C:\Users\Emman\source\repos\my journey in C#\forlooptesting\forlooptesting\bin\Debug\forlooptesting.pdb
+C:\Users\Emman\source\repos\my journey in C#\forlooptesting\forlooptesting\obj\Debug\forlooptesting.exe
+C:\Users\Emman\source\repos\my journey in C#\forlooptesting\forlooptesting\obj\Debug\forlooptesting.pdb
