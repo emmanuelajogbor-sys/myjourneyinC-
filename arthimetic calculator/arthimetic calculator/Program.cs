@@ -13,79 +13,88 @@ namespace arthimetic_calculator
             Console.WriteLine("Simple Arthimetic Calculator");
             Console.WriteLine();
             Console.WriteLine();
-           /*nt Add = 1;
-            int Sub = 2;
-            int Multi = 3;
-            int divide = 4;*/
-            
-            Console.WriteLine("1. Addition");
-            Console.WriteLine("2. Subtraction");
-            Console.WriteLine("3. Mulitiplication");
-            Console.WriteLine("4. Division");
+            /*nt Add = 1;
+             int Sub = 2;
+             int Multi = 3;
+             int divide = 4;*/
 
-            Console.WriteLine();
+            bool mode = true;
 
-            Console.WriteLine("MAKE A SELECTION!");
-            int choice = Convert.ToInt32(Console.ReadLine());
-            
-
-            Console.Write("Enter First Number: ");
-            double num1 = Convert.ToDouble(Console.ReadLine());
-
-            /*f (userinput == 1)
-             {
-                 Console.WriteLine("addition");
-                 int A = Convert.ToInt32(Console.ReadLine());
-                 int B = Convert.ToInt32(Console.ReadLine());
-
-
-                 int add = A + B;
-                 Console.WriteLine(
-             }*/
-
-            Console.Write("Enter your Second Number: ");
-            double num2 = Convert.ToDouble(Console.ReadLine());
-
-            if (choice == 1)
+            while (mode)
             {
-                double add = num1 + num2;
+                Console.WriteLine("1. Addition");
+                Console.WriteLine("2. Subtraction");
+                Console.WriteLine("3. Mulitiplication");
+                Console.WriteLine("4. Division");
+
                 Console.WriteLine();
-                Console.Write("Ans: " + num1 + "+" + num2 + " = " + add);
-            }
-            else if (choice == 2)
-            {
-                double sub = num1 - num2;
+
+                Console.WriteLine("MAKE A SELECTION!");
+                int choice = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine();
-                Console.Write("Ans: " + num1 + "-" + num2 + " = " + sub);
-            }
-            else if (choice == 3)
-            {
-                double multi = num1 * num2;
-                Console.WriteLine();
-                Console.WriteLine("Ans: " + num1 + "*" + num2 + "= " + multi);
-            }
-            else if (choice == 4)
-            {
-                if (num2 == 0)
+
+                
+
+                if (choice >= 1 && choice < 5)
                 {
-                    Console.WriteLine("Error, can't be divided by 0");
+                    Console.Write("Enter First Number: ");
+                    double num1 = Convert.ToDouble(Console.ReadLine());
+
+                    Console.Write("Enter your Second Number: ");
+                    double num2 = Convert.ToDouble(Console.ReadLine());
+
+
+                    if (choice == 1)
+                    {
+                        double add = num1 + num2;
+                        Console.WriteLine();
+                        Console.Write("Ans: " + num1 + "+" + num2 + " = " + add);
+                    }
+                    else if (choice == 2)
+                    {
+                        double sub = num1 - num2;
+                        Console.WriteLine();
+                        Console.Write("Ans: " + num1 + "-" + num2 + " = " + sub);
+                    }
+                    else if (choice == 3)
+                    {
+                        double multi = num1 * num2;
+                        Console.WriteLine();
+                        Console.WriteLine("Ans: " + num1 + "*" + num2 + "= " + multi);
+                    }
+                    else if (choice == 4)
+                    {
+                        if (num2 == 0)
+                        {
+                            Console.WriteLine("Error, can't be divided by 0");
+                        }
+                        else
+                        {
+
+                            double divide = num1 / num2;
+                            Console.WriteLine();
+                            Console.WriteLine("Ans: " + num1 + "/" + num2 + "= " + divide);
+
+                        }
+
+                    }
+
+                    else
+
+                    {
+                        Console.WriteLine("Wrong Input, try again.");
+                    }
                 }
                 else
                 {
-
-                double divide = num1 / num2;
-                Console.WriteLine();
-                Console.WriteLine("Ans: " + num1 + "/" + num2 + "= " + divide);
-
+                    Console.WriteLine("Insert from 1-4, thank you.");
+                    Console.WriteLine();
                 }
-            }
-            else
-            {
-                Console.WriteLine("try again, Selectfrom 1-4 this time");
-            }
+                
 
-            Console.WriteLine("THANK YOU  FOR USING MY CALCULATOR!!! KILOMENE!!!");
-         
+
+            }
+            Console.ReadLine();
         }
     }
 }
